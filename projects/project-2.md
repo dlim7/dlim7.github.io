@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: jumprunman.PNG
+image: images/jumprunman.PNG
 title: JumpRunMan
 permalink: projects/JumpRunMan
 # All dates must be YYYY-MM-DD format!
