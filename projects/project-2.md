@@ -17,4 +17,4 @@ JumpRunMan was a platformer game that my team and I developed for our final prje
 
 The "man" would have to make it up a series of platforms he could collide with and would fall if not currently colliding with a platform. To add a layer of difficulty we also implemented a lava block that would creep up the page and in the even that the "man" collided with it the game would end.
  
-Source: <a href="https://github.com/nathanonaka/JumpRunMan"><i class="large github icon"></i>JumpRunMan/JumpRunMan</a>
+Source: <a href="https://github.com/nathanonaka/JumpRunMan"><i class="large github icon"></i>nathanonaka/JumpRunMan</a>
