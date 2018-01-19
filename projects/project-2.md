@@ -13,10 +13,8 @@ summary: A platforming game my team developed in ICS 111.
 
 <img class="ui medium right floated rounded image" src="../images/jumprunman.PNG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+JumpRunMan was a platformer game that my team and I developed for our final prject in our ICS 111 course. I thought of the project idea when I noticed there was a sirt of "collision" detection built in to the library our professor gave us and thought we could develop a game out of it. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The "man" would have to make it up a series of platforms he could collide with and would fall if not currently colliding with a platform. To add a layer of difficulty we also implemented a lava block that would creep up the page and in the even that the "man" collided with it the game would end.
  
 Source: <a href="https://github.com/nathanonaka/JumpRunMan"><i class="large github icon"></i>JumpRunMan/JumpRunMan</a>
