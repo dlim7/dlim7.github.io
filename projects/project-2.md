@@ -11,7 +11,7 @@ labels:
 summary: A platforming game my team developed in ICS 111.
 ---
 
-<img class="ui medium right floated rounded image" src="dlim7.github.io/images/jumprunman.PNG">
+<img class="ui medium right floated rounded image" src="dlim7.github.io/images/jumprunman.png">
 
 JumpRunMan was a platformer game that my team and I developed for our final prject in our ICS 111 course. I thought of the project idea when I noticed there was a sirt of "collision" detection built in to the library our professor gave us and thought we could develop a game out of it. 
 
