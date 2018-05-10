@@ -1,22 +1,18 @@
 ---
 layout: project
 type: project
-image: images/map.png
+image: images/file.png
 title: ManoaMaps
-permalink: projects/ManoaMaps
+permalink: projects/File-Script
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-01
+date: 2017-010-12
 labels:
-  - JavaScript
-  - React
-  - Semantic UI
-summary: Final Project for ICS341 a web based map app.
+  - Python
+summary: Scrpt made for ICS212 to manipulate files.
 ---
 
-<img class="ui medium image" src="../images/map.png">
+<img class="ui medium image" src="../images/file.png">
 
-ManoaMaps was a web based application intended to help UH Manoa students find where they were allowed to park. UH Manoa is infamous for having a inconvenient parkiung situation and so this app allowed users to find where their parking pass allowed them to park on a map. This map started as simple image overlays but eventually a google maps implementation was done
+A short script made to traverse a file system and search for a file that was updated after a date the user inputs. The script would also take a particular directory you would like to conduct the search. I used a simple regex to find a files updated time. The implemnentation was a bit difficult to get working on both Mac and Windows, which is what I spent most of my time on.  
 
 
-
-Source: <a href="manoamaps.github.io"><i class="large github icon"></i>ManoaMaps</a>
