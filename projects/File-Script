@@ -8,7 +8,7 @@ permalink: projects/File-Script
 date: 2017-10-12
 labels:
   - Python
-summary: Script made for ICS212 to manipulate files.
+summary: Script made for ICS212 to sort files.
 ---
 
 <img class="ui medium image" src="../images/file.png">
