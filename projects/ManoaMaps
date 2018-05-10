@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/map.png
-title: JumpRunMan
+title: ManoaMaps
 permalink: projects/ManoaMaps
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
@@ -10,15 +10,13 @@ labels:
   - JavaScript
   - React
   - Semantic UI
-summary: A platforming game my team developed in ICS 111.
+summary: Final Project for ICS341 a web based map app.
 ---
 
 <img class="ui medium image" src="../images/map.png">
 
-JumpRunMan was a platformer game that my team and I developed for our final prject in our ICS 111 course. I thought of the project idea when I noticed there was a sirt of "collision" detection built in to the library our professor gave us and thought we could develop a game out of it. 
+ManoaMaps was a web based application intended to help UH Manoa students find where they were allowed to park. UH Manoa is infamous for having a inconvenient parkiung situation and so this app allowed users to find where their parking pass allowed them to park on a map. This map started as simple image overlays but eventually a google maps implementation was done
 
-I was responsible for using the library the proffessor gave us and find a implementation of it to allow for collisions between images and movement of them. I also implemented the actual movement of the game objects such as the lava moving or the mans jumping, running, and falling speed
 
-The "man" would have to make it up a series of platforms he could collide with and would fall if not currently colliding with a platform. To add a layer of difficulty we also implemented a lava block that would creep up the page and in the even that the "man" collided with it the game would end.
- 
-Source: <a href="https://github.com/nathanonaka/JumpRunMan"><i class="large github icon"></i>JumpRunMan</a>
+
+Source: <a href="manoamaps.github.io"><i class="large github icon"></i>JumpRunMan</a>
