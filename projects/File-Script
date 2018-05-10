@@ -5,7 +5,7 @@ image: images/file.png
 title: File-script
 permalink: projects/File-Script
 # All dates must be YYYY-MM-DD format!
-date: 2017-010-12
+date: 2017-10-12
 labels:
   - Python
 summary: Script made for ICS212 to manipulate files.
