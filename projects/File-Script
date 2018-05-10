@@ -1,0 +1,22 @@
+---
+layout: project
+type: project
+image: images/map.png
+title: ManoaMaps
+permalink: projects/ManoaMaps
+# All dates must be YYYY-MM-DD format!
+date: 2018-05-01
+labels:
+  - JavaScript
+  - React
+  - Semantic UI
+summary: Final Project for ICS341 a web based map app.
+---
+
+<img class="ui medium image" src="../images/map.png">
+
+ManoaMaps was a web based application intended to help UH Manoa students find where they were allowed to park. UH Manoa is infamous for having a inconvenient parkiung situation and so this app allowed users to find where their parking pass allowed them to park on a map. This map started as simple image overlays but eventually a google maps implementation was done
+
+
+
+Source: <a href="manoamaps.github.io"><i class="large github icon"></i>ManoaMaps</a>
